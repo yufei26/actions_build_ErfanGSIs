@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/21.12.1/miui_ALIOTH_21.12.1_bd9cb304e1_12.0.zip
+  ROM_URL: https://bigota.d.miui.com/21.12.8/miui_PISSARRO_21.12.8_86fd07cb82_11.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: AB
   TZ: Asia/Shanghai
